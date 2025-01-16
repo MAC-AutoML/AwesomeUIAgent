@@ -15,10 +15,16 @@
 | Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction | arXiv                                                        | 2024.12.5                  | [xlang-ai/aguvis: Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction (github.com)](https://github.com/xlang-ai/aguvis) |
 | OS-ATLAS: A Foundation Action Model for Generalist GUI Agents | arXiv                                                        | 2024.10.30                 | [OS-Copilot/OS-Atlas: OS-ATLAS: A Foundation Action Model For Generalist GUI Agents (github.com)](https://github.com/OS-Copilot/OS-Atlas) |
 | CogAgent: A Visual Language Model for GUI Agents             | CVPR 2024 conference Highlight (top 3%).                     | 2023.12.14；2024.12.27(v3) | [THUDM/CogAgent: An open-sourced end-to-end VLM-based GUI Agent (github.com)](https://github.com/THUDM/CogAgent) |
+| InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection | arXiv                                                        | 2025.1.8                   | [Reallm-Labs/InfiGUIAgent (github.com)](https://github.com/Reallm-Labs/InfiGUIAgent) |
 
 
 
+## agent
 
+| Title                                                        | Venue                                                   | Date     | Code                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------- | -------- | ------------------------------------- |
+| [Towards general computer control: A multimodal agent for red dead redemption ii as a case study](https://openreview.net/forum?id=pmcFzuUxsP) | ICLR 2024 Workshop on Large Language Model (LLM) Agents | 2024.3.5 | https://github.com/BAAI-Agents/Cradle |
+| PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides | arXiv                                                   | 2025.1.7 | https://github.com/icip-cas/PPTAgent  |
 
 ## Evaluation-agent
 
