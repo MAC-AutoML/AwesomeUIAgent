@@ -18,6 +18,7 @@
 | InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection | arXiv                                                        | 2025.1.8                   | [Reallm-Labs/InfiGUIAgent (github.com)](https://github.com/Reallm-Labs/InfiGUIAgent) |
 | UI-TARS: Pioneering Automated GUI Interaction with Native Agents | arXiv                                                        | 2025.1.21                  | https://github.com/bytedance/UI-TARS                         |
 | GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration | arXiv                                                        | 2025.1.23                  | https://github.com/GUI-Bee/gui-bee.github.io                 |
+| UI-TARS: Pioneering Automated GUI Interaction with Native Agents | arXiv                                                        | 2025.1.21                  | https://github.com/bytedance/UI-TARS                         |
 
 
 
