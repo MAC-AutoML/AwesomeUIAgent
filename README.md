@@ -19,6 +19,7 @@
 | UI-TARS: Pioneering Automated GUI Interaction with Native Agents | arXiv                                                        | 2025.1.21                  | https://github.com/bytedance/UI-TARS                         |
 | GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration | arXiv                                                        | 2025.1.23                  | https://github.com/GUI-Bee/gui-bee.github.io                 |
 | UI-TARS: Pioneering Automated GUI Interaction with Native Agents | arXiv                                                        | 2025.1.21                  | https://github.com/bytedance/UI-TARS                         |
+| GUI-Bee : Align GUI Action Grounding to Novel Environments via Autonomous Exploration | arXiv                                                        | 2025.1.23                  |                                                              |
 
 
 
@@ -66,4 +67,5 @@
 | Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration | arXiv        | 2018.2.24  | [Farama-Foundation/miniwob-plusplus: MiniWoB++: a web interaction benchmark for reinforcement learning (github.com)](https://github.com/Farama-Foundation/miniwob-plusplus) | MiniWoB++ is an extension of the [OpenAI MiniWoB benchmark](http://proceedings.mlr.press/v70/shi17a/shi17a.pdf), and was introduced in the paper [Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802). |
 | Mind2Web: Towards a Generalist Agent for the Web             | NeurIPS 2023 | 2023.6.9   | [OSU-NLP-Group/Mind2Web: [NeurIPS'23 Spotlight\] "Mind2Web: Towards a Generalist Agent for the Web" (github.com)](https://github.com/OSU-NLP-Group/Mind2Web) | same author of model UGround                                 |
 | OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis | arXiv        | 2024.12.27 | https://github.com/OS-Copilot/OS-Genesis                     |                                                              |
+| GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices | arXiv        | 2024.6.13  | https://github.com/OpenGVLab/GUI-Odyssey                     | cross-app GUI navigation                                     |
 
